@@ -4,7 +4,7 @@
 
 ## 
 <p float="left">
-<img src="images/Media.gif" width="220">
+<img src="demofiles/Media.gif" width="220">
 </p>
 
 
