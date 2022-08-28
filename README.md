@@ -1,5 +1,4 @@
 # Animated Builder
-### Page Selector
 ### **Live Demo** : [https://ashutosh-rai-78.github.io/animated_builder](https://ashutosh-rai-78.github.io/animated_builder)
 
 ## 
